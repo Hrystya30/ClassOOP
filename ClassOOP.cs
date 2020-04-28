@@ -31,7 +31,8 @@ namespace Класи
 
             Console.WriteLine(third.ToShortString());
             Console.WriteLine(team.ToString());
-
+            
+            Console.ReadKey();
         }
 
         public class Person
